@@ -6,8 +6,8 @@
 
 I specialize in developing back-end software and for data analysis.
 
-My hard working ambition is apparent when creating fullstack web application and interactive dashboards with PowerBI.
-I am currently on track of learning even more into the data field en love to establish new projects. I'm diverse in al sorts of programming
+My hard working ambition are apparent when creating fullstack web application and interactive dashboards with PowerBI.
+I am currently on track of learning even more into the data field and love to establish new projects. I'm diverse in al sorts of programming
 languages.
 
 <!-- <p align="center"
