@@ -46,11 +46,11 @@ languages.
  📧 &emsp; Feel free to reach out to me xanderpoggenklaas@gmail.com<br/><br/>
 
   <p>
-     <a href="https://linkedin.com/in/al-siam" target="_blank">
+     <a href="https://linkedin.com/in/xander-poggenklaas-835170272/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
      </a>
-     <a href="https://twitter.com/_alsiam" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+     <a href="https://x.com/Xander17Gamer" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white" />
      </a>
       <a href="https://gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-fe4164?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
