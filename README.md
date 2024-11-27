@@ -42,7 +42,7 @@ languages.
   <img align="right" width="200px" src="https://github.com/Xander172006.png" alt="Xander172006" />
 
 ✌️ &emsp; Enjoy programming and mathematics <br/><br/>
- 👀 &emsp; Like to play chess, read or draw in my free time<br/><br/>
+ 👀 &emsp; Like to play chess, edit videos or draw in my free time<br/><br/>
  📧 &emsp; Feel free to reach out to me xanderpoggenklaas@gmail.com<br/><br/>
 
   <p>
