@@ -45,25 +45,6 @@ With the knowledge I’ve gained so far, I focus my efforts on building cool and
       </a>
   </p>
 </p>
-<br />
-
-## Projects
-
-<div style="
-      display: flex;
-      justify-content: center;
-      flex-direction: row;
-      gap: 20px;
-   " align="center"
->
-   
-[![ChessEngine](https://github-readme-stats.vercel.app/api/pin/?username=Xander172006&repo=chess-engine&border_color=009933&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=009933&repo_card_width=400)](https://github.com/Xander172006/chess-engine)
-[![CodeArtistry](https://github-readme-stats.vercel.app/api/pin/?username=Xander172006&repo=drawings-art-platform&border_color=1ac6ff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=1ac6ff&repo_card_width=400)](https://github.com/Xander172006/drawings-art-platform)
-[![Track-app](https://github-readme-stats.vercel.app/api/pin/?username=Xander172006&repo=track-app&border_color=e04f00&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e04f00&repo_card_width=400)](https://github.com/Xander172006/track-app)
-[![Binsta-Project](https://github-readme-stats.vercel.app/api/pin/?username=Xander172006&repo=Binsta-project&border_color=003399&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=003399&repo_card_width=400)](https://github.com/Xander172006/Binsta-project)
-[![Side Order Project](https://github-readme-stats.vercel.app/api/pin/?username=Xander172006&repo=Side-Order-Project&border_color=ffe6e6&bg_color=0D1117&title_color=e6e6e6&text_color=a6a6a6&icon_color=ffcccc&repo_card_width=600 "Side Order Project")](https://github.com/Xander172006/Splatoon-3-Side-Order-analysis-Project)
-</div>
-
 
 
 </br>
