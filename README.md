@@ -4,11 +4,10 @@
 
 </div>
 
-I specialize in developing back-end software and for data analysis.
+In 2025, I graduated as a software developer with a specialization in backend development.
 
-My hard working ambition are apparent when creating fullstack web application and interactive dashboards with PowerBI.
-I am currently on track of learning even more into the data field and love to establish new projects. I'm diverse in al sorts of programming
-languages.
+I am currently attending college again, pursuing a bachelor’s degree in AI & Data Science.
+With the knowledge I’ve gained so far, I focus my efforts on building cool and impactful projects that will help me land future job opportunities.
 
 <!-- <p align="center"
    <a href="https://linkedin.com/in/al-siam" target="_blank">
@@ -25,13 +24,11 @@ languages.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&color=orange)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F&color=FFFF00)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 <br />
